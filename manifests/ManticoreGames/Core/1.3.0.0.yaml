@@ -1,0 +1,14 @@
+Id: ManticoreGames.Core
+Name: Core
+Version: 1.3.0.0
+Publisher: Manticore Games
+AppMoniker: Core
+License: Copyright © 2022 Manticore Games, Inc. All Rights Reserved.
+LicenseUrl: https://www.coregames.com/legal/ManticoreLegalNotices.html
+Homepage: https://www.coregames.com
+Description: Core is an endless universe of games and worlds designed by a global community of creators.
+InstallerType: Exe
+Installers:
+  - Arch: x64
+    Url: https://manticoreprod.azureedge.net/builds/CoreLauncherInstall.exe
+    Sha256: 69cbc014b759a1da9694e6ca31be802eb50b3ef75fbcd08ea7241415b6b54a7d
